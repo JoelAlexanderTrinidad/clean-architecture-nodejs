@@ -1,0 +1,1 @@
+// varías funciones que se pueden usar para dar el formato deseado a las respuesta del cliente, como pueden ser success, errors, paginations
